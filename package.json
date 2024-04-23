@@ -1,6 +1,6 @@
 {
     "name": "boltz-frontend",
-    "version": "v1.3.6",
+    "version": "v1.3.7",
     "description": "Boltz Exchange, Atomic Swaps, Web App",
     "scripts": {
         "start": "npm run regtest && vite",
