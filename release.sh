@@ -47,8 +47,8 @@ git add package.json package-lock.json LICENSE CHANGELOG.md
 # commit
 git commit -m "$commit_message"
 
-# git push origin $tag
-# gh pr create --title "$commit_message" --base main --head $tag
+git push origin $tag
+gh pr create --title "$commit_message" --base main --head $tag --body "$commit_message"
 
 echo "1. Please review the release notes"
 echo "2. merge the pull request"
