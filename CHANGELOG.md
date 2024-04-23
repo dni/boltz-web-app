@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 ---
+## [1.3.7](https://github.com/BoltzExchange/boltz-web-app/compare/v1.3.6..v1.3.7) - 2024-04-23
+
+### Bug Fixes
+
+- release.sh - ([c2bb43f](https://github.com/BoltzExchange/boltz-web-app/commit/c2bb43f4f54a02df50a8deb49a9303d4001c9aec))
+
+### Miscellaneous Chores
+
+- remove release workflow - ([ed73f83](https://github.com/BoltzExchange/boltz-web-app/commit/ed73f83a2f2496fec1dd083ad8db327cb714d9d0))
+
+---
 ## [1.3.6](https://github.com/BoltzExchange/boltz-web-app/compare/v1.3.5..v1.3.6) - 2024-04-23
 
 ### Features
