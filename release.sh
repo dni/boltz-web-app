@@ -41,6 +41,7 @@ sed -i \
 
 # generate changelog after we updated version
 git-cliff -o CHANGELOG.md -t $tag
+git-cliff -o release.md -t $tag --latest
 
 git add package.json package-lock.json LICENSE CHANGELOG.md
 
